@@ -5,5 +5,5 @@
 def roll
   # code goes here
   #rand(1..6)
-  [1..6].sample
+  [(1..6)].sample
 end
